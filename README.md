@@ -1,7 +1,12 @@
 my main github account is @PumpkinBear111
+
 favorite parts of robotics are:
 - bling
 - scouting (underrated competition role)
 
-worked on elevator and bling for Crescendo 2024
-currently working on a web project for looking at data gathered during scouting frc events
+Projects I've worked on for Spartronics
+- Elevator code for NEMESIS (2024)
+- fBling (2024, Unfinished)
+  - Infix to postfix math evaluator
+  - Fancy bling code
+- WIP Scouting Analysis Tool (2024, Summer)
