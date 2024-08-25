@@ -9,4 +9,4 @@ Projects I've worked on for Spartronics
 - fBling (2024, Unfinished)
   - Infix to postfix math evaluator
   - Fancy bling code
-- WIP Scouting Analysis Tool (2024, Summer)
+- Pythia
