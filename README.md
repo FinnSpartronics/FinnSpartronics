@@ -5,12 +5,12 @@ favorite parts of robotics are:
 - bling
 - scouting
 
-Projects I've worked on:
+I've worked on:
  - NEMESIS Elevator (2024)
- - fBling (2024, Unfinished)
-   - Infix to postfix math evaluator
-   - Fancy bling (LED) code allowing for complicated light shows
-   - Suffered from poor preformance on the robot but ran great on the python simulator I wrote
+ - Bling/Driver Communication
+  - Fbling (2024-2025) (short for Fancy Bling) is a python script to display and create fancy light shows to be displayed on robots.
+  - Java fBling (2024, Unfinished) was supposed to run those fancy light shows on robots but due to performance issues and the lack of light strips on the robot, it was never used.
+  - Bling (2025) Supports WPILib LEDPatterns, Easy Driver Communication, and shows created by fBling. 
 - Orpheus (2024-2025)
    - A website that displays, graphs, and helps you analyze your team's scouting data
    - You choose what data is important for you to look at
