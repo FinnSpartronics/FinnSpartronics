@@ -1,6 +1,3 @@
-my main github account is @PumpkinBear111
-
-
 favorite parts of robotics are:
 - bling
 - scouting
@@ -15,3 +12,9 @@ I've worked on:
    - A website that displays, graphs, and helps you analyze your team's scouting data
    - You choose what data is important for you to look at
    - (should) support any team's data
+- Scouting-Tools (2024-2025)
+   - A collection of various tools that'll help with random scouting things.
+   - Includes:
+      -  Scouting match assigner
+      -  Data sanitizer
+      - and more
